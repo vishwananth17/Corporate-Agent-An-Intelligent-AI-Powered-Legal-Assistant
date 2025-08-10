@@ -1,0 +1,1556 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="/js/adgm-components.umd-210726.js"></script>
+    <link rel="shortcut icon" href="/Adgm/images/favicon.png" type="image/x-icon" />
+    <script src="/js/ADGM/jQuery.js"></script>
+    <script src="/js/lib/mustache.js"></script>
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+    <link href="/css/ADGM/Forms/style.css" rel="stylesheet" />
+    <link href="/css/ADGM/loader.css" rel="stylesheet" />
+
+    <script src="https://unpkg.com/gijgo@1.9.14/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://unpkg.com/gijgo@1.9.14/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+
+
+
+    <title>Starting a Business in Abu Dhabi, UAE</title>
+    <meta name="description" content="Start and grow your business in a unique environment with ADGM, the award-winning International Financial Centre in UAE." />
+    <meta key="keywords" name="keywords" />
+    <link rel="canonical" href="https://www.adgm.com/setting-up">
+            <link rel="alternate" href="https://www.adgm.com/setting-up" hreflang="en" />
+    <!-- Robots -->
+            <meta key="robots" name="robots" content="index, follow" />
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="Setting up in ADGM">
+    <meta property="og:url" content="https://www.adgm.com/setting-up">
+    <meta property="og:description" content="Start and grow your business in a unique environment with ADGM, the award-winning International Financial Centre in UAE.">
+    <meta property="og:type">
+    <!-- Twitter meta tags -->
+    <meta name="twitter:title" content="Setting up in ADGM">
+    <meta name="twitter:description" content="Start and grow your business in a unique environment with ADGM, the award-winning International Financial Centre in UAE.">
+    <meta name="twitter:card">
+    <meta name="twitter:site" content="ADGM">
+    <meta name="twitter:properties">
+    <meta name="twitter:url" content="https://www.adgm.com/setting-up">
+    <meta property="article:author" content="">
+    <meta property="article:published_time" content="18/04/2024 09:22:14 AM">
+
+ <!-- Verification code is missing -->
+     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJKKFG7');</script>
+
+
+    <link href="/css/main.css" rel="stylesheet" />
+
+<style>
+/* 
+.lit-button.--size-m {
+    padding: 0 var(--adgm-spacing-s32);
+    gap: var(--adgm-spacing-s12);
+    height: 3.5rem;
+}
+.lit-button {
+    color: var(--adgm-color-white) !important;
+    background: var(--adgm-color-darksky100);
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    border: 0;
+    box-shadow: none;
+    text-decoration: none;
+*/
+</style>
+    <div class="leader-modal modal-hidden">
+        <div class="leader-modal__container">
+            <div class="loader-sec"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        /* Loading Stuff*/
+        function showLoading() {
+            var loadingCheck = document.getElementById("leader-modal");
+            if (loadingCheck == null || loadingCheck == undefined) {
+
+                const scrollHide = document.querySelector('body');
+                scrollHide.style.overflow = 'hidden';
+
+                const loadingDiv = document.createElement('div');
+                loadingDiv.setAttribute("id", "leader-modal");
+                loadingDiv.setAttribute("class", "leader-modal active");
+
+                const loadingContainer = document.createElement('div');
+                loadingContainer.setAttribute("class", "leader-modal__container active");
+
+                const loadingImage = document.createElement('div');
+                loadingImage.setAttribute("class", "loader-sec");
+                loadingImage.style.visibility = "visible";
+
+                loadingContainer.appendChild(loadingImage);
+                loadingDiv.appendChild(loadingContainer);
+
+                var loadingMaster = document.getElementById("loading-master");
+                loadingMaster.appendChild(loadingDiv);
+            }
+        }
+
+        function hideLoading() {
+            const scrollHide = document.querySelector('body');
+            scrollHide.style.overflow = 'auto';
+            const loadingMaster = document.getElementById("loading-master");
+            loadingMaster.innerText = '';
+        }
+    </script>
+    <!--Application Insights-->
+<script>
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: { instrumentationKey:'7d6f3f3f-e2c9-47eb-8779-8b867d3a0b4c', disableCookiesUsage: true }});
+</script>
+</head>
+<body style="margin: 0px;">
+
+
+    <div id="loading-master"></div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJKKFG7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <adgm-application font-path="/fonts/">
+        <adgm-page>
+
+        <adgm-navigation float="true" 
+        >
+
+                                               <adgm-navigation-item title="About" href="/about/the-abu-dhabi-lifestyle" key="About">
+                                                                            <a href="/about"
+                                    >Overview</a>
+                                                                            <a href="/about/jurisdiction"
+                                    >Jurisdiction</a>
+                                                                            <a href="/about/authorities"
+                                    >Authorities</a>
+                                                                            <a href="/initiatives"
+                                    >Initiatives</a>
+                                                                            <a href="https://www.adgmacademy.com"
+                                     target="_blank" >ADGM Academy</a>
+                                                                            <a href="https://disputeresolution.adgm.com"
+                                     target="_blank" >Dispute Resolution</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="About">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    A platform that offers limitless opportunities and paves the way for a brighter future
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>Abu Dhabi boasts first-class infrastructure and unparalleled global connectivity, making it a premier international destination. Its exceptional qualities make it an ideal location to live, work, and conduct business.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/about/the-abu-dhabi-lifestyle" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Read about Abu Dhabi&#x27;s life style
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Latest Initiatives
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/media/announcements/adgms-2024-performance-with-245-growth-in-aums-highlights-global-influence"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='27 Feb 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" src='https://assets.adgm.com/images/assets/840x452-media-announcement-banner-2.jpg/Zz0xMDE4ZmNlMDc3NDExMWVmYTE2NTQ2NGUzZjg1MDQ1Yg==' blur-hash="" alt="ADGM&#x2019;s 2024 Performance With 245% Growth in AUMs Highlights Global Influence"></adgm-image>
+ADGM&#x2019;s 2024 Performance With 245% Growth in AUMs Highlights Global Influence                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/media/announcements/adgm-completes-al-reem-island-integration-adding-over-1100-entities-to-its-jurisdiction"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='24 Feb 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" src='https://assets.adgm.com/images/assets/840x452-media-announcement-banner-6.jpg/Zz0yZjA0ZDUyZTgwYjYxMWVmYTQ4NWQyZGNjOTI4ODUyMQ==' blur-hash="" alt="ADGM Completes Al Reem Island Integration, Adding Over 1,100 Entities to its Jurisdiction"></adgm-image>
+ADGM Completes Al Reem Island Integration, Adding Over 1,100 Entities to its Jurisdiction                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="Business" href="/setting-up" key="Business">
+                                                                            <a href="/business"
+                                    >Overview</a>
+                                                                            <a href="/business-areas"
+                                    >Business Areas</a>
+                                                                            <a href="/setting-up"
+                                    >Setting up</a>
+                                                                            <a href="/operating-in-adgm"
+                                    >Operating in</a>
+                                                                            <a href="/public-registers"
+                                    >Public Registers</a>
+                                                                            <a href="/legal-framework"
+                                    >Legal Framework</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="Business">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    Providing an environment that empowers the future
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>A financial centre that provides transparency, efficiency, and integrity, through its progressive frameworks, future focused infrastructure, all within a familiar independent legal jurisdiction &ndash; ADGM is the perfect platform for success.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/setting-up" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Find out how to set up in ADGM
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Latest News
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/media/announcements/adgms-4th-annual-summer-internship-programme-celebrates-community-and-collaboration"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='05 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adgm-internship-2025-871x491.jpg/Zz0yOTI2NWM4ZTcxYzYxMWYwOTk5MDNhOTNkNzUxOTUxZg==' blur-hash="" alt="ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration"></adgm-image>
+ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/media/announcements/adfw-2025-set-to-double-in-size-at-new-location"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='01 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adfw-thumbnail-871x491.jpg/Zz02YTg3YTZjZTZlYTYxMWYwODI2MDJlODNkZmEzYjYyZQ==' blur-hash="" alt="Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location"></adgm-image>
+Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="eServices" href="https://accessrp.adgm.com" key="eServices">
+                                                                            <a href="/operating-in-adgm/e-services/accessrp"
+                                    >AccessRP</a>
+                                                                            <a href="/operating-in-adgm/e-services/accessadgm-government-services-portal"
+                                    >ACCESSADGM</a>
+                                                                            <a href="/operating-in-adgm/e-services/online-registry-solution"
+                                    >Online Registry Solution</a>
+                                                                            <a href="/operating-in-adgm/e-services/electronic-prudential-reporting"
+                                    >Electronic Prudential Reporting</a>
+                                                                            <a href="/operating-in-adgm/e-services/fsra-connect"
+                                    >FSRA Connect</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="eServices">
+                                                    <div>
+                                                         <adgm-text variant="text2XL">
+                                    All Your Real Property Needs in One Platform on AccessRP
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text>
+                                    
+<p>AccessRP is a next-generation digital platform transforming the real estate experience in ADGM. Designed to streamline interactions across the ecosystem, AccessRP brings together landlords, developers, and tenants in one seamless environment, providing real-time access to services, data, and insights.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="https://accessrp.adgm.com" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Explore AccessRP
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Latest News
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/media/announcements/adgms-4th-annual-summer-internship-programme-celebrates-community-and-collaboration"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='05 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adgm-internship-2025-871x491.jpg/Zz0yOTI2NWM4ZTcxYzYxMWYwOTk5MDNhOTNkNzUxOTUxZg==' blur-hash="" alt="ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration"></adgm-image>
+ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/media/announcements/adfw-2025-set-to-double-in-size-at-new-location"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='01 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adfw-thumbnail-871x491.jpg/Zz02YTg3YTZjZTZlYTYxMWYwODI2MDJlODNkZmEzYjYyZQ==' blur-hash="" alt="Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location"></adgm-image>
+Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="Discover" href="/media" key="Discover">
+                                                                            <a href="/media"
+                                    >Media</a>
+                                                                            <a href="/media/announcements"
+                                    >News</a>
+                                                                            <a href="/events"
+                                    >Events</a>
+                                                                            <a href="/spotlight"
+                                    >Spotlight</a>
+                                                                            <a href="/think-by-adgm"
+                                    >Podcasts</a>
+                                                                            <a href="/media/publications"
+                                    >Publications</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="Discover">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    Stay up-to-date with our wide range of available resources
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>Our community of business professionals, entrepreneurs, and investors can depend on ADGM to provide timely news and reliable insights.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/media" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Read our latest news articles
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Upcoming Events
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+
+                                                                           <adgm-flex direction="column" gap="s16">
+                                                                                      <adgm-event-card date-month='Dec'
+                                                                                                date-day='08-11'
+                                                                                                location='Al Maryah Island, Abu Dhabi'
+                                                                                                href='https://www.adfw.com/'  target="_blank" >
+                                                    ADFW 2025
+                                                                                      </adgm-event-card>
+                                                                                      <adgm-event-card date-month='Dec'
+                                                                                                date-day='10'
+                                                                                                location='Al Maryah Island, Abu Dhabi'
+                                                                                                href='https://www.adfw.com/events/resolve'  target="_blank" >
+                                                    RESOLVE 2025
+                                                                                      </adgm-event-card>
+                                                                                      <adgm-event-card date-month='Jan'
+                                                                                                date-day='28-30'
+                                                                                                location='Abu Dhabi'
+                                                                                                href='/events/27th-annual-iba-arbitration-day-conference' >
+                                                    27th Annual IBA Arbitration Day Conference
+                                                                                      </adgm-event-card>
+                                                                           </adgm-flex>
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="Contact &amp; Support" href="/contact-us" key="Contact &amp; Support">
+                                                                            <a href="/contact-us"
+                                    >Support</a>
+                                                                            <a href="/contact-us/make-an-enquiry"
+                                    >Make an enquiry</a>
+                                                                            <a href="/contact-us/speaking-up"
+                                    >Speaking Up</a>
+                                                                            <a href="/faqs"
+                                    >FAQs</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="Contact &amp; Support">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    We are here to help
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>At ADGM, we offer various support options, including contact details, FAQs, enquiry forms, and a whistleblowing form.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/contact-us" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    View available support options
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Some of our FAQ topics
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/faqs/setting-up"
+                                                
+                                                                                                 chip='Setting up'
+                                                                                                 date='1 January 0001'
+                                                                                                 variant='secondary'>                                                                                                           <adgm-ul slot="content">
+                                                                                                                       <li>Getting started</li>
+                                                                                                                       <li>Foundations regime</li>
+                                                                                                                       <li>Resolution for incorporation</li>
+                                                                                                           </adgm-ul>
+                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/faqs/operating-in-adgm"
+                                                
+                                                                                                 chip='Operating in'
+                                                                                                 date='1 January 0001'
+                                                                                                 variant='secondary'>                                                                                                           <adgm-ul slot="content">
+                                                                                                                       <li>Existing auditors</li>
+                                                                                                                       <li>New auditors</li>
+                                                                                                                       <li>ACCESSADGM</li>
+                                                                                                           </adgm-ul>
+                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+
+                </adgm-navigation>
+
+<script>
+    function eventCardAlignment() {
+        const eventCard = document.querySelectorAll('adgm-event-card');
+
+        if (eventCard) {
+            eventCard.forEach(item => {
+                item.shadowRoot.querySelector('.date').setAttribute("style", "width: 90px !important;");
+            });
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        eventCardAlignment();
+    });
+</script>
+            
+
+
+
+
+	<span>
+		<span>
+        <adgm-hero size='s'>
+                        <adgm-image  src='https://assets.adgm.com/images/assets/setting_up_1905x506.jpg/Zz0xMjBmMDIwYzNhOTExMWVmOTY4ODA2ODJmZGY5ZDQxYg=='  loading="eager">
+                                        </adgm-image>
+                    <div slot="content">
+                            <adgm-text variant='heroTitleM' >
+                                <h1>Setting up in ADGM</h1>
+                            </adgm-text>
+                    </div>
+        </adgm-hero>
+</span>
+	
+		<span>
+
+
+
+<adgm-container>
+    <adgm-breadcrumbs>
+                        <adgm-breadcrumb>Setting up in ADGM</adgm-breadcrumb>
+
+    </adgm-breadcrumbs>
+</adgm-container>
+
+<adgm-spacer height="s80"></adgm-spacer>
+
+</span>
+	
+		<span>
+<adgm-section variant='primary'>
+        <adgm-container>
+            
+<div>
+        <adgm-presentation-grid variant="eightFour">
+            <div>
+                        <adgm-text  variant="pageIntroTitle"
+                        >Overview</adgm-text>
+                        <adgm-spacer height="rBodyXL"></adgm-spacer>
+                        <adgm-text variant="textL" weight="400" indent="">
+                            
+<p>Grow and scale in Abu Dhabi&rsquo;s award-winning international financial centre, providing an international and supportive business environment.</p>
+                        </adgm-text>
+            </div>
+        </adgm-presentation-grid>
+</div><div>
+    <adgm-spacer height='rSectionM'></adgm-spacer>
+</div>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+<adgm-section variant='secondary'>
+        <adgm-container>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+            
+<div>
+    <adgm-overview-grid variant='four'  content-align="[&quot;.title&quot;,&quot;.body&quot;]" >
+        
+<div>
+        <adgm-icon-card title='Preparing &amp; submitting your application' href='/setting-up/#preparing-application' variant="secondary"  filled button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                01
+                            </adgm-text>
+            
+                        </adgm-icon-card>
+
+</div><div>
+        <adgm-icon-card title='Getting visa' href='/operating-in-adgm/visas-and-government-services' variant="secondary"  filled button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                02
+                            </adgm-text>
+            
+                        </adgm-icon-card>
+
+</div><div>
+        <adgm-icon-card title='Filing and reporting requirements' href='/operating-in-adgm/obligations-of-adgm-registered-entities' variant="secondary"  filled button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                03
+                            </adgm-text>
+            
+                        </adgm-icon-card>
+
+</div><div>
+        <adgm-icon-card title='How to contact us' href='/contact-us' variant="secondary"  filled button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                04
+                            </adgm-text>
+            
+                        </adgm-icon-card>
+
+</div>
+    </adgm-overview-grid>
+</div>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+<adgm-section variant='primary' id='preparing-application'>
+        <adgm-container>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+            
+<div>
+    <adgm-text
+     variant='headingTwo'
+    >Preparing your application
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>1. Select the nature of your business</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><adgm-table variant="secondary" mode="default" min-width="800px" overflow-scroll="" cell-vertical-align="top"><adgm-table-row><adgm-table-header-cell>Financial</adgm-table-header-cell><adgm-table-header-cell>Non-Financial</adgm-table-header-cell><adgm-table-header-cell>Retail</adgm-table-header-cell></adgm-table-row><adgm-table-row><adgm-table-cell>
+<p>Banking &amp; Money Services</p>
+<p>Wealth and Asset Management</p>
+<p>Capital Markets</p>
+<p>Digital Assets &amp; Fintech</p>
+</adgm-table-cell><adgm-table-cell>
+<p>Professional and business services<br />Corporate Solutions</p>
+<ul>
+<li>Head offices</li>
+<li>Treasury</li>
+<li>Holding Company</li>
+<li>SPVs</li>
+<li>Professional Associations</li>
+<li>Foundations</li>
+<li>Tech Startups</li>
+</ul>
+</adgm-table-cell><adgm-table-cell>
+<p>Retail and entertainment</p>
+<adgm-table-cell></adgm-table-cell></adgm-table-cell></adgm-table-row></adgm-table></adgm-body>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+<p>If you are unsure of the category of your business, you can search the <a href="/setting-up/permitted-activities/">permitted activities,</a> or alternatively you can talk to our business development team.</p>
+                    </adgm-text>
+    </adgm-message>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>        <adgm-body ><p><strong>For Financial Activities</strong> : Please view the authorisation process overview <span class="text-nowrap">located <a href="/setting-up/authorisation-and-supplementary-forms/">here</a></span>. This stage will need to be completed in advance of the Registration and Incorporation.</p>
+<p><strong>SPVs and Foundation Applications</strong> : You will need to firstly confirm if you will be exempt from appointing a Company Service Provider (CSP) to complete your application. To support you with identifying this, we have published a tool to provide indication as to whether you will need to appoint a CSP to submit the application on your behalf.</p></adgm-body>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+<p>You can use this <a href="/operating-in-adgm/company-service-providers/guidance-and-resources/">tool</a> to confirm if you will be exempt from appointing a Company Service Provider (CSP).</p>
+                    </adgm-text>
+    </adgm-message>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>2. Select the legal structure</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><div class="acc-content" style="display: block;">
+<p>ADGM permits a wide range of business structures to use. Overview of permitted structures is located <a target="_blank" href="https://assets.adgm.com/download/assets/guidance+entity+types.pdf/7558e7aa63c811ef95f396f3abd4a36a" rel="noopener">here</a></p>
+</div></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>3. Check that your proposed name is available for use</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><p>ADGM has a set of specific rules around the words that can be used within a proposed company name.</p>
+<ol>
+<li>If the name <strong>is similar to an existing name in ADGM</strong>, you will be required to provide evidence that you have the right to use this name.</li>
+<li>If your name <strong>contains sensitive terms</strong>, you will also need to provide evidence that the use of these terms have been approved for use by the relevant authorities. Our portal will provide a warning if you have entered a sensitive term as part of your proposed name (e.g. Bank, Emirates, Abu Dhabi etc.)</li>
+</ol></adgm-body>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-flex  gap='s4' direction='row' justify='center' 
+    >
+    
+<div>
+
+    <adgm-button   target="_blank"   variant="primary"   type="button"  href="https://newreg.adgm.com/s/search-results" >
+        Search the Register
+        </adgm-button>
+
+<script>
+    function openAdgmModal(id) {
+        const modal = document.getElementById(id);
+        if (modal) {
+            modal.setAttribute('open', 'true');
+        } else {
+            console.error(`No <adgm-modal> found with id "${id}".`);
+        }
+    }
+
+    function closeAdgmModal(id) {
+        const modal = document.getElementById(id);
+        if (modal) {
+            modal.removeAttribute('open');
+        }
+    }
+
+    document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') {
+            document.querySelectorAll('adgm-modal[open]').forEach(modal => {
+                modal.removeAttribute('open');
+            });
+        }
+    });
+</script>
+
+
+<style>
+    .modal-content {
+        padding: 20px;
+        border-radius: 8px;
+        position: relative;
+    }
+
+</style>
+</div>
+    </adgm-flex>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                 Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+<p><span>If you are using abbreviations as part of the name, the team may request that you submit the supplementary information to explain the meaning of the abbreviation. We recommend that if you are using an abbreviation, that you upload a supplementary document to avoid potential delays. Template of this supplementary document is located&nbsp;</span><a href="/legal-framework/guidance-and-policy-statements/">here</a></p>
+                    </adgm-text>
+    </adgm-message>
+</div><div>
+    <adgm-spacer height='s12'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+<p><span>Reserving the name is not required as it can be done as part of that application. However, this service is available should you wish to register the name in advance and can be done through the&nbsp;</span><a target="_self" href="/operating-in-adgm/e-services/online-registry-solution-portal/" rel="noopener">Online Registry Solution</a></p>
+                    </adgm-text>
+    </adgm-message>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>4. Identify your office space and register your lease</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><p class="mb20">Having a physical presence within the jurisdiction is a requirement for ADGM entities. The only exception to this rule is for Special Purpose Vehicles (SPVs), for more information on setting up an SPV and the requirements, particularly the appointment of a corporate service provider, please <a href="/setting-up/special-purpose-vehicles/">visit here</a>.</p>
+<p class="mb40">For details of the office spaces and co-working spaces on Al Maryah island and Al Reem island please <a href="/operating-in-adgm/office-space/">click here.</a></p></adgm-body>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+You will be asked for proof of lease / your lease registration as part of your registration / incorporation application.
+                    </adgm-text>
+    </adgm-message>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>5. Documents and Information to support your application</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><p>The completeness of your application will determine the length of time it will take for your commercial licence to be issued.</p>
+<p>You will note below that there are a number of supplementary documents that you will need to complete as part of your application. We are currently working to upgrade our platform.</p></adgm-body>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+Any documentation such as proof of address, or source of wealth, should be dated within 3 months from the application submission.
+                    </adgm-text>
+    </adgm-message>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                 Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+All required documents should be in English, and notarisation is not required, unless specifically requested by the Registrar.
+                    </adgm-text>
+    </adgm-message>
+</div><div>
+    <adgm-spacer height='s80'></adgm-spacer>
+</div><div>
+    <adgm-text
+     variant='textL'  weight="500" 
+    >Registration and Incorporation documents:
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s12'></adgm-spacer>
+</div><div>
+<adgm-section variant='primary'>
+
+<div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3> Financial Services Companies</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><div class="acc-content" style="display: block;">
+<p>You will need to have your In Principle Approval issued before you commence your application for Registration / Incorporation.</p>
+</div></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Articles of Association</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><p>Template is available on the ADGM website but this can be amended or bespoke articles uploaded, provided the applicant can confirm that these are compliant with the ADGM Companies Regulations that can be accessed <a href="/registration-authority/registration-and-incorporation/">here</a>.</p></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3> Resolutions</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><p>Template is available on the ADGM website but this can be amended or bespoke articles uploaded, provided the applicant can confirm that these are compliant with the ADGM Companies Regulations that can be accessed <a href="/registration-authority/registration-and-incorporation/">here</a>.</p></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3> Identification documents for Authorised Signatories and Directors</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><div class="acc-content" style="display: block;">
+<p>Valid Passport copy and Emirates ID copies. If any of the role holders are dual passport holders, please upload copies of both passports.</p>
+</div></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3> Source of wealth</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><div class="acc-content" style="display: block;">
+<p>The Registrar can request to view documentation related to the source of wealth of individual shareholders, and individual UBOs (with ownership of more than 25%). Source of wealth can be bank statement, dated not more than 3 months from the application date. Declaration can be located <a href="/legal-framework/guidance-and-policy-statements/">here</a>.</p>
+</div></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3> Hub71 Approval Letter [Tech Start ups]</h3>
+                    </adgm-text>
+        
+<div>        <adgm-body ><div>
+<p>Any application for the incentivized Tech Start up licence, must pass an initial eligibility review. All applications that will be considered, must be accompanied by a Hub71 approval letter. To apply for this letter, please visit the <a href="https://rb.gy/vpf65z" target="_blank" rel="noopener">ADGM/Hub71 Tech Licence Eligibility Form</a>.</p>
+</div></adgm-body>
+</div>
+            </adgm-expansion-panel>
+
+</div>
+</adgm-section></div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>6. Information resources, downloadable application checklists</h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-overview-grid variant='four'  content-align="[&quot;.title&quot;,&quot;.body&quot;]" >
+        
+<div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Branch&#x2B;-&#x2B;Financial&#x2B;Services&#x2B;and&#x2B;Non-Financial&#x2B;Services.pdf/c5bd08c65a4411efb9d83a701912a93f"  reverse  target="_blank" >
+        Branch &#x2013; Financial and Non-Financial Services
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Continue&#x2B;LTD&#x2B;into&#x2B;ADGM.pdf/540ffc926b7e11ef895c96fe31b0af54"  reverse  target="_blank" >
+        Guidance on Continuance into ADGM
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Limited&#x2B;Liability&#x2B;Partnership&#x2B;-&#x2B;Financial&#x2B;and&#x2B;Non-Financial&#x2B;firms.pdf/581aa6b66b7e11efa51c0e7a9b09c175"  reverse  target="_blank" >
+        Limited Liability Partnership &#x2013; Financial and Non-Financial
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Limited&#x2B;Partnership&#x2B;-&#x2B;Financial&#x2B;and&#x2B;Non-Financial&#x2B;Services.pdf/be0b27e4146511f0a51652b241d83089"  reverse  target="_blank" >
+        Limited Partnership &#x2013; Financial and Non-Financial Services
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares&#x2B;-&#x2B;Non-Financial&#x2B;Services.pdf/c214f1f25a4411ef82f4b295bac3477d"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Non-Financial Services
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares&#x2B;%28RSC%29&#x2B;-&#x2B;Non-Financial&#x2B;Services.pdf/05047f3a146911f09e5d4e26c69fbfdf"  reverse  target="_blank" >
+        Private Company Limited by Shares (RSC) &#x2013; Non-Financial Services
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares&#x2B;-&#x2B;Retail.pdf/c06fff4a5a4411ef82f4b295bac3477d"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Retail
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Registration&#x2B;Authority&#x2B;-&#x2B;Foundation&#x2B;Registration.pdf/232b48e21e7b11f083a7ea9748ad1a99"  reverse  target="_blank" >
+        Foundation Registration
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Registration&#x2B;Authority&#x2B;-&#x2B;Foundation&#x2B;Continuance&#x2B;to&#x2B;ADGM.pdf/23106d601e7b11f0a588d60c2a3d5cee"  reverse  target="_blank" >
+        Foundation Continuance to ADGM
+            </adgm-link-button>
+</div>
+    </adgm-overview-grid>
+</div>
+            </adgm-expansion-panel>
+
+</div>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+<adgm-section variant='primary' id='checklist'>
+
+<div>
+    <adgm-container 
+    >        
+<div>
+    <adgm-text
+     variant='headingTwo'
+    >Sections you will need to complete in your form
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s48'></adgm-spacer>
+</div><div>
+    <adgm-overview-grid variant='three'  content-align="[&quot;.title&quot;,&quot;.body&quot;]" >
+        
+<div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+         General Details
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+         Addresses
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+         Authorised Signatories
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+         Director
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+        Secretary
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+         Shares Capital
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+        Data Protection
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+        Beneficial Owners
+            </adgm-link-button>
+</div><div>    <adgm-link-button variant='tertiary'
+                      size='s'
+                      icon='checkMark'
+     reverse >
+        Review
+            </adgm-link-button>
+</div>
+    </adgm-overview-grid>
+</div>
+    </adgm-container>
+</div>
+</adgm-section></span>
+	
+		<span>
+    <adgm-spacer height='rBodyXL'></adgm-spacer>
+</span>
+	
+		<span>
+<adgm-section variant='secondary'>
+        <adgm-container>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+            
+<div>
+    <adgm-presentation-grid variant='sixSix'>
+        
+<div>
+    <adgm-message-banner>
+            <adgm-flex direction="column" justify="center" align="center" gap="rBodyM">
+
+                    <adgm-text variant="displayL" weight="300" color="night100" align="center">Ready to apply?</adgm-text>
+                        <adgm-text variant="textL" weight="400" color="night80" align="center">Once you have your required documentation together you can proceed to the Registration and Incorporation application.<br><br></adgm-text>
+                    <adgm-button   href='/operating-in-adgm/e-services/online-registry-solution-portal'>Online Registry Solution</adgm-button>
+            </adgm-flex>
+    </adgm-message-banner>
+
+</div><div>
+    <adgm-message-banner>
+            <adgm-flex direction="column" justify="center" align="center" gap="rBodyM">
+
+                    <adgm-text variant="displayL" weight="300" color="night100" align="center">Need more information?</adgm-text>
+                        <adgm-text variant="textL" weight="400" color="night80" align="center">Our team of experts is dedicated to providing you with the highest quality of service and support. If you have any questions or concerns, don't hesitate to contact us.</adgm-text>
+                    <adgm-button   target="_blank"   size="m"   href='https://adgm-mdm.my.salesforce-sites.com/leadGeneration'>Contact Us</adgm-button>
+            </adgm-flex>
+    </adgm-message-banner>
+
+</div>
+    </adgm-presentation-grid>
+</div>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+<adgm-section variant='primary'>
+        <adgm-container>
+            
+<div>
+    <adgm-section>
+        <adgm-spacer height="rSectionM"></adgm-spacer>
+        <adgm-container>
+            <adgm-text variant="displayS" weight="300">
+                <h2>Fees</h2>
+            </adgm-text>
+            <adgm-text variant="textS" weight="400">The fees below are indicative for the commercial license applications only, and are subject to change.</adgm-text>
+        </adgm-container>
+        <adgm-spacer height="s48"></adgm-spacer>
+        <adgm-container class="calc-container" style="background-color: #F5F5F5;">
+            <adgm-presentation-grid variant="textText">
+                <div>
+                    <adgm-spacer height="rBodyL"></adgm-spacer>
+                    <adgm-text variant="displayS" weight="300">
+                        <h2>Registration Fees</h2>
+                    </adgm-text>
+                    <adgm-spacer height="s32"></adgm-spacer>
+                    <adgm-hr></adgm-hr>
+                            <adgm-spacer height="s32"></adgm-spacer>
+                            <adgm-text variant="textM" weight="600"><h6>Select from Standard Pricing</h6></adgm-text>
+                                    <adgm-checkbox id="hMAiF2T2zkmtcyBXFxNgxQ==" class="checkboxclass" label="Financial" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="x1OF9aaCeUq5hyUntSl9Bg==" class="checkboxclass" label="Non Financial" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="Goy2XE3BBUqgIDyKWQCOrg==" class="checkboxclass" label="Retail" name="checkbox.b"></adgm-checkbox>
+                            <adgm-spacer height="s32"></adgm-spacer>
+                            <adgm-text variant="textM" weight="600"><h6>Select from Special Arrangements</h6></adgm-text>
+                                    <adgm-checkbox id="T43cD05ZMU2JjclUL9HhsA==" class="checkboxclass" label="Tech Start Up" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="WObfgXC0/Ue9487Su1KqDQ==" class="checkboxclass" label="Special Purpose Vehicle (SPV)" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="9X01rvMXBkGbq9DHtKPIMw==" class="checkboxclass" label="Open / Closed Ended Investment Co." name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="ZTwFKjl/&#x2B;Uq5Z3FYAXfy1g==" class="checkboxclass" label="Investment Fund" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="vExGeO0rwkidZtWdCVXitw==" class="checkboxclass" label="Foundation" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="NgJyfWNn8k2RD8nwTZLbbg==" class="checkboxclass" label="DLT Foundation" name="checkbox.b"></adgm-checkbox>
+                                    <adgm-checkbox id="mRXpKyMCeU&#x2B;H0mRc6nZrAQ==" class="checkboxclass" label="Social Enterprises" name="checkbox.b"></adgm-checkbox>
+                    <adgm-spacer height="rBodyL"></adgm-spacer>
+                </div>
+                <div>
+                    <adgm-spacer height="rBodyL"></adgm-spacer>
+                    <adgm-flex gap="s4" direction="column" justify="space-between" style="height:100%;">
+                        <div>
+                            <adgm-text variant="displayS" weight="300">
+                                <h2>Summary</h2>
+                            </adgm-text>
+                            <adgm-spacer height="s32"></adgm-spacer>
+                            <adgm-hr></adgm-hr>
+                        </div>
+                        <adgm-flex gap="s4" direction="row" justify="space-between" align="center">
+                            <adgm-text variant="textXL" weight="500">
+                                <h2 id="calculatorparenttitle"></h2>
+                            </adgm-text>
+                            <adgm-text variant="textXL" weight="500">
+                                <h2 id="calculatorparentamount"></h2>
+                            </adgm-text>
+                        </adgm-flex>
+                        <adgm-ul style="padding-left: 40px;" id="childrenitemcontainer"></adgm-ul>
+                        <div>
+                            <adgm-hr color="darksky100" style="height: 4px;"></adgm-hr>
+                            <adgm-spacer height="s20"></adgm-spacer>
+                            <adgm-flex gap="s4" direction="row" justify="space-between" align="center">
+                                <adgm-text variant="textXL" weight="600">
+                                    <h1>TOTAL PRICE:</h1>
+                                </adgm-text>
+                                <adgm-text variant="textXL" weight="600">
+                                    <h1 id="totalpricecontainer"></h1>
+                                </adgm-text>
+                            </adgm-flex>
+                            <adgm-spacer height="s32"></adgm-spacer>
+                            <adgm-flex gap="s4" direction="row" justify="space-between" align="center">
+                                <!-- ✅ Added id="reset_icon" to the button -->
+                                <adgm-icon-button id="reset_icon" class="adgm-icon" gap="rBodyM" icon="reset_icon" size="m" anim>
+                                </adgm-icon-button>
+
+                                <adgm-button class="adgm-btn" size="m" style="width: 100%;"
+                                             href='/operating-in-adgm/e-services/online-registry-solution-portal'
+                                             target="_blank">Online Registry Solution</adgm-button>
+                            </adgm-flex>
+                        </div>
+                        <adgm-spacer height="rBodyL"></adgm-spacer>
+                    </adgm-flex>
+                </div>
+            </adgm-presentation-grid>
+        </adgm-container>
+        <adgm-spacer height="rSectionM"></adgm-spacer>
+    </adgm-section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const calculatoritems = {"Title":"Fees","Description":"The fees below are indicative for the commercial license applications only, and are subject to change.","LeftTitle":"Registration Fees","RightTitle":"Summary","PriceTitle":"TOTAL PRICE:","ActionLink":"/operating-in-adgm/e-services/online-registry-solution-portal","LinkText":"Online Registry Solution","CalculatorSections":[{"Title":"Select from Standard Pricing","CalculatorSectionParentItems":[{"id":"hMAiF2T2zkmtcyBXFxNgxQ==","Title":"Financial","Amount":17000,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Business Activity Fee","Amount":16000},{"Title":"Data Protection Fee","Amount":300}]},{"id":"x1OF9aaCeUq5hyUntSl9Bg==","Title":"Non Financial","Amount":5800,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Business Activity Fee","Amount":4800},{"Title":"Data Protection Fee","Amount":300}]},{"id":"Goy2XE3BBUqgIDyKWQCOrg==","Title":"Retail","Amount":2800,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Business Activity Fee","Amount":1800},{"Title":"Data Protection Fee","Amount":300}]}]},{"Title":"Select from Special Arrangements","CalculatorSectionParentItems":[{"id":"T43cD05ZMU2JjclUL9HhsA==","Title":"Tech Start Up","Amount":1500,"CalculatorSectionsChildItems":[{"Title":"Incentivized Fee for a period of 3 years (including start ups registered before 1st Jan 25)","Amount":1500}]},{"id":"WObfgXC0/Ue9487Su1KqDQ==","Title":"Special Purpose Vehicle (SPV)","Amount":1900,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Business Activity Fee","Amount":900},{"Title":"Data Protection Fee","Amount":300}]},{"id":"9X01rvMXBkGbq9DHtKPIMw==","Title":"Open / Closed Ended Investment Co.","Amount":1900,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Busines Activity Fee","Amount":900},{"Title":"Data Protection Fee","Amount":300}]},{"id":"ZTwFKjl/+Uq5Z3FYAXfy1g==","Title":"Investment Fund","Amount":1900,"CalculatorSectionsChildItems":null},{"id":"vExGeO0rwkidZtWdCVXitw==","Title":"Foundation","Amount":1000,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Business Activity Fee","Amount":0},{"Title":"Data Protection Fee","Amount":300}]},{"id":"NgJyfWNn8k2RD8nwTZLbbg==","Title":"DLT Foundation","Amount":15000,"CalculatorSectionsChildItems":[{"Title":"Name Reservation","Amount":200},{"Title":"Application for Incorporation","Amount":300},{"Title":"Commercial Licence Fee","Amount":200},{"Title":"Business Activity Fee","Amount":14000},{"Title":"Data Protection","Amount":300}]},{"id":"mRXpKyMCeU+H0mRc6nZrAQ==","Title":"Social Enterprises","Amount":700,"CalculatorSectionsChildItems":[{"Title":"Subject to obtaining and maintaining a certificate/ approval confirming classification of the entity as a “Social Enterprise” from the competent Authority.","Amount":700}]}]}]};
+
+        document.getElementById('totalpricecontainer').innerHTML = returnformattedamount(0);
+
+        var sectionsparentitems = [];
+        for (let i = 0; i < calculatoritems["CalculatorSections"].length; i++) {
+            for (let j = 0; j < calculatoritems["CalculatorSections"][i].CalculatorSectionParentItems.length; j++) {
+                sectionsparentitems.push(calculatoritems["CalculatorSections"][i].CalculatorSectionParentItems[j]);
+            }
+        }
+
+        function returnformattedamount(amount) {
+            let formattedAmount = new Intl.NumberFormat('en-US', {
+                style: 'currency',
+                currency: 'USD',
+                minimumFractionDigits: 0,
+                maximumFractionDigits: 0
+            }).format(amount);
+            return formattedAmount;
+        }
+
+        function showselecteditems(selectedid) {
+            const selectedparent = sectionsparentitems.find(x => x.id === selectedid);
+            if (!selectedparent) return;
+            document.getElementById('calculatorparenttitle').innerHTML = selectedparent.Title;
+            document.getElementById('calculatorparentamount').innerHTML = returnformattedamount(selectedparent.Amount);
+            document.getElementById('totalpricecontainer').innerHTML = returnformattedamount(selectedparent.Amount);
+
+            const childitemcontainer = document.getElementById('childrenitemcontainer');
+            childitemcontainer.innerHTML = '';
+            if (selectedparent.CalculatorSectionsChildItems) {
+                selectedparent.CalculatorSectionsChildItems.forEach(childitem => {
+                    let listItem = document.createElement('li');
+                    listItem.textContent = `${childitem.Title} - ${returnformattedamount(childitem.Amount)}`;
+                    childitemcontainer.appendChild(listItem);
+                });
+            }
+        }
+
+        function handleCheckboxChange(event, selectedElement) {
+            document.querySelectorAll('adgm-checkbox').forEach(customCheckbox => {
+                const shadowRoot = customCheckbox?.shadowRoot;
+                if (shadowRoot) {
+                    const shadowInput = shadowRoot.querySelector('.container');
+                    if (shadowInput && selectedElement !== shadowInput) {
+                        shadowInput.querySelector('input').checked = false;
+                        shadowInput.classList.remove('--selected');
+                    } else if (selectedElement === shadowInput) {
+                        selectedElement.querySelector('input').checked = true;
+                        selectedElement.classList.add('--selected');
+                        showselecteditems(customCheckbox.id);
+                    }
+                }
+            });
+            event.stopPropagation();
+        }
+
+        function removeselecteditems() {
+            console.log('removeselecteditems running');
+            document.getElementById('calculatorparenttitle').innerHTML = '';
+            document.getElementById('calculatorparentamount').innerHTML = '';
+            document.getElementById('totalpricecontainer').innerHTML = returnformattedamount(0);
+
+            const childitemcontainer = document.getElementById('childrenitemcontainer');
+            childitemcontainer.innerHTML = '';
+        }
+
+        function resetcalculator() {
+            console.log('resetcalculator running');
+            document.querySelectorAll('adgm-checkbox').forEach(customCheckbox => {
+                const shadowRoot = customCheckbox?.shadowRoot;
+                if (shadowRoot) {
+                    const shadowInput = shadowRoot.querySelector('.container');
+                    if (shadowInput) {
+                        shadowInput.querySelector('input').checked = false;
+                        shadowInput.classList.remove('--selected');
+                    }
+                }
+            });
+        }
+
+        const resetButton = document.getElementById('reset_icon');
+        console.log('resetButton:', resetButton); // ✅ Confirm button exists
+
+        resetButton?.addEventListener('click', function () {
+            console.log('Reset button clicked');
+            resetcalculator();
+            removeselecteditems();
+        });
+
+        document.querySelectorAll('adgm-checkbox').forEach(customCheckbox => {
+            const shadowRoot = customCheckbox?.shadowRoot;
+            if (shadowRoot) {
+                const shadowInput = shadowRoot.querySelector('.container');
+
+                if (shadowInput) {
+                    shadowInput.addEventListener('click', (event) => {
+                        if (event.target.tagName === 'INPUT') {
+                            handleCheckboxChange(event, shadowInput, shadowRoot.id);
+                        }
+                    });
+                }
+            }
+        });
+    });
+
+    function getIconButton() {
+        const iconBtn = document.querySelector('.adgm-icon');
+        const getIcon = iconBtn?.shadowRoot?.querySelector('adgm-icon');
+        const setIcon = getIcon?.shadowRoot;
+
+        const svgString = `<svg viewBox="-1.335 -1.335 64 64" xmlns="http://www.w3.org/2000/svg" id="Button-Refresh-Arrow--Streamline-Ultimate.svg" height="64" width="64">
+          <desc>Button Refresh Arrow Streamline Icon: https://streamlinehq.com</desc>
+          <path d="M13.53910858333333 37.839843375V50.76565195833333H2.0494441666666665" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.67"></path>
+          <path d="M13.53910858333333 50.768462916666664C-1.9377724583333331 36.56545708333333 3.7646398333333333 10.934372374999999 23.803195166666665 4.632459333333333C43.8417505 -1.6691981666666664 63.188043458333325 16.084559125 58.626113624999995 36.589478C54.85534079166666 53.538790125 36.42286483333333 62.70200320833332 20.633967416666664 55.47630704166666" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.67"></path>
+        </svg>`;
+
+        const parser = new DOMParser();
+        const svgDoc = parser.parseFromString(svgString, 'image/svg+xml');
+        const svgElement = svgDoc.documentElement;
+
+        setIcon?.appendChild(svgElement);
+
+        const getBtn = document.querySelector('.adgm-btn');
+        if (!getBtn || !iconBtn) return;
+
+        const isMobile = window.matchMedia('(max-width: 380px)').matches;
+
+        console.log('isMobile:', isMobile);
+        if (isMobile) {
+            getBtn?.setAttribute('size', 's');
+            iconBtn?.setAttribute('size', 's');
+        } else {
+            getBtn?.setAttribute('size', 'm');
+            iconBtn?.setAttribute('size', 'm');
+        }
+    }
+
+    getIconButton();
+    window.addEventListener("resize", getIconButton);
+</script>
+</div>
+        </adgm-container>
+
+</adgm-section></span>
+	</span>
+
+
+
+        <adgm-footer>
+                        <adgm-footer-category>
+                            <h3 slot="title">About</h3>
+                                    <a href='/about' >Overview</a>
+                                    <a href='/about/jurisdiction' >Jurisdiction</a>
+                                    <a href='/about/authorities' >Authorities</a>
+                                    <a href='/initiatives' >Initiatives</a>
+                                    <a href='https://www.adgmacademy.com'  target="_blank" >ADGM Academy</a>
+                                    <a href='https://disputeresolution.adgm.com'  target="_blank" >Dispute Resolution</a>
+                                    <a href='/careers' >Careers</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">Business</h3>
+                                    <a href='/business' >Overview</a>
+                                    <a href='/business-areas' >Business areas</a>
+                                    <a href='/setting-up' >Setting up</a>
+                                    <a href='/operating-in-adgm' >Operating in</a>
+                                    <a href='/public-registers' >Public registers</a>
+                                    <a href='/legal-framework' >Legal framework</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">eServices</h3>
+                                    <a href='/operating-in-adgm/e-services/accessrp' >AccessRP</a>
+                                    <a href='/operating-in-adgm/e-services/accessadgm-government-services-portal' >ACCESSADGM</a>
+                                    <a href='/operating-in-adgm/e-services/online-registry-solution' >Online Registry Solution</a>
+                                    <a href='/operating-in-adgm/e-services/electronic-prudential-reporting' >Electronic Prudential Reporting</a>
+                                    <a href='/operating-in-adgm/e-services/fsra-connect' >FSRA Connect</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">Discover</h3>
+                                    <a href='/media' >Media</a>
+                                    <a href='/media/announcements' >News</a>
+                                    <a href='/events' >Events</a>
+                                    <a href='/spotlight' >Spotlight</a>
+                                    <a href='/think-by-adgm' >Podcasts</a>
+                                    <a href='/media/publications' >Publications</a>
+                                    <a href='/document-repository' >Documents</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">Contact &amp; Support</h3>
+                                    <a href='/contact-us/make-an-enquiry' >Make an enquiry</a>
+                                    <a href='/contact-us/speaking-up' >Speaking Up</a>
+                                    <a href='/faqs' >Frequently Asked Questions</a>
+                        </adgm-footer-category>
+                <span slot="legalText">
+&#xA9; 2025 ADGM. All rights reserved.                </span>
+                <adgm-footer-legal-links slot="legalLinks">
+                            <a href='/sitemap' >Sitemap</a>
+                            <a href='/information/terms-and-conditions' >Terms and conditions</a>
+                            <a href='/information/privacy-policy' >Privacy policy</a>
+                            <a href='/information/cookies-policy' >Cookies policy</a>
+                </adgm-footer-legal-links>
+                <adgm-footer-social-links slot="socialLinks">
+                            <a href='https://www.linkedin.com/company/adgm' target="_blank">
+                                <adgm-icon icon="socialLinkedIn"></adgm-icon>
+                            </a>
+                            <a href='https://x.com/adglobalmarket'>
+                                <adgm-icon icon="socialTwitter"></adgm-icon>
+                            </a>
+                            <a href='https://www.instagram.com/adgm' target="_blank">
+                                <adgm-icon icon="socialInstagram"></adgm-icon>
+                            </a>
+                            <a href='https://www.youtube.com/abudhabiglobalmarket'>
+                                <adgm-icon icon="socialYouTube"></adgm-icon>
+                            </a>
+                </adgm-footer-social-links>
+        </adgm-footer>
+
+    <!-- Scroll to Top Button -->
+    <div class="back-to-top">
+        <adgm-back-to-top>
+            <adgm-icon-button size="s" variant="tertiary" icon="chevronUpL">
+                <button class="button --variant-tertiary --size-s" type="button">
+                    <slot name="icon">
+                        <adgm-icon color="currentColor" icon="chevronUpL" size="s20"></adgm-icon>
+                    </slot>
+                </button>
+            </adgm-icon-button>
+        </adgm-back-to-top>
+    </div>
+<!-- Chatbot Implementation -->
+
+            
+        </adgm-page>
+    </adgm-application>
+        <adgm-cookie-notification class="cookie-hide">
+                <adgm-body>
+                    <p>We use cookies and similar technologies that are necessary to operate the website. Additional cookies are used to perform analysis of website usage. By continuing to use our website, you consent to our use of cookies. For more information, please read our <a href="/information/cookies-policy/">Cookies Policy</a>.</p>
+                </adgm-body>
+            <adgm-spacer height="rBodyXS"></adgm-spacer>
+            <adgm-flex gap="s8" direction="row">
+                    <adgm-button id="cookie-reject" size="s" outlined>Reject cookies</adgm-button>
+                    <adgm-button id="cookie-accept" size="s">Accept cookies</adgm-button>
+
+
+            </adgm-flex>
+        </adgm-cookie-notification>
+    <!--Footer Client Resources-->
+    <script defer="defer" src="/Util/Find/epi-util/find.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){if(typeof FindApi === 'function'){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}})
+</script>
+
+    <script src="/js/bootstrap.bundle.min.js"></script>
+
+
+        <script src="/js/hideheaderfooter.js"></script>
+
+<script src="/Util/EPiServer.GoogleAnalytics/Tracking.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-E8VJ108T1K"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());gtag('config', 'G-E8VJ108T1K',);if(window.epiGat)epiGat({"downloads":true,"extensions":"7z|aac|arc|arj|asf|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|png|pptx?|qtm?|ra(m|r)?|tar|tgz|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","external":true,"externalAsViews":true,"mailto":true,"trackForms":true,"trackVisitorGroups":true,"trackLogins":true,"trackingOption":"Measurement"});</script></body>
+</html>
+<script>
+    // Get the button
+    var mybutton = document.querySelector('.back-to-top');
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() { scrollFunction() };
+
+    if (navigator.platform === "iPhone") {
+        document.body.classList?.add("iphone");
+    }
+
+    const cookieNotification = document.querySelector(".iphone adgm-cookie-notification");
+    if (cookieNotification) {
+        const cookieContainer = cookieNotification.shadowRoot.querySelector(".container");
+
+        if (cookieContainer) {
+            cookieContainer.style.marginBottom = "50%";
+        }
+    }
+
+    function scrollFunction() {
+        if (mybutton) {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document smoothly
+    if (mybutton !== null) {
+        mybutton.onclick = function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    }
+
+    const cookieReject = document.getElementById('cookie-reject');
+    const cookieAccept = document.getElementById('cookie-accept');
+    var showPopUp;
+    // Function to create a cookie with a 1-year expiry
+    function createCookie(cname, cvalue) {
+        var d = new Date();
+        d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // 1 year in milliseconds
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;secure";
+    }
+
+    function getCookie(cookieName) {
+        if (typeof document !== "undefined") {  // Check if running in a browser environment
+            var cookieNameEQ = cookieName + '=';
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i].trim(); // Trim any leading spaces
+                if (c.indexOf(cookieNameEQ) === 0) {  // Check if the cookie starts with the cookie name
+                    return c.substring(cookieNameEQ.length, c.length);  // Return the cookie value
+                }
+            }
+            return '';  // Return empty string if cookie not found
+        }
+        return null;  // Return null if not in a browser environment
+    }
+    // Function to check the cookie and set the popup state
+    function checkCookieAndSetPopup() {
+        var cookieRejected = getCookie("cookies_rejected");
+        var cookieAccepted = getCookie("cookies_accepted");
+
+        if (cookieRejected || cookieAccepted) {
+            document.querySelector('.cookie-hide').style.visibility = "hidden";
+        } else {
+            document.querySelector('.cookie-hide').style.visibility = 'visible';
+        }
+    }
+
+    if (cookieReject !== null) {
+        cookieReject.addEventListener('click', () => {
+            document.querySelector('.cookie-hide').style.visibility = "hidden";
+            createCookie("cookies_rejected", "rejected")
+
+        })
+    }
+
+    if (cookieAccept !== null) {
+        cookieAccept.addEventListener('click', () => {
+            document.querySelector('.cookie-hide').style.visibility = "hidden";
+            createCookie("cookies_accepted", "accepted")
+        })
+    }
+    window.onload = checkCookieAndSetPopup;
+
+    const articleCards = document.querySelectorAll('adgm-article-card');
+    articleCards?.forEach((card, idx) => {
+        const links = card?.shadowRoot?.querySelectorAll('.content adgm-link-button');
+        var target = card?.getAttribute('target');
+        if (target !== undefined && target !== null) {
+            links[0]?.setAttribute('target', target);
+        }
+    })
+
+    const iconCards = document.querySelectorAll('adgm-icon-card');
+    iconCards?.forEach((card, idx) => {
+        const links = card?.shadowRoot?.querySelectorAll('.content adgm-link-button');
+        var target = card?.getAttribute('target');
+        if (target !== undefined && target !== null) {
+            links[0]?.setAttribute('target', target);
+        }
+    })
+
+
+        document.addEventListener("DOMContentLoaded", () => {
+            const header = document.querySelector("adgm-navigation")
+                  if(header) {
+                    header.updateComplete.then(() => {
+                        header.firstUpdated();
+                    })
+                  }
+
+            function updateLinks(root) {
+            if (!root) return;
+
+            root.querySelectorAll('a[target="_blank"]').forEach(anchor => {
+              anchor.setAttribute("rel", "noopener");
+            });
+          }
+
+          function scanAllElements(root = document) {
+            root.querySelectorAll("*").forEach(element => {
+              element.querySelectorAll('a[target="_blank"]').forEach(anchor => {
+                anchor.setAttribute("rel", "noopener");
+              });
+              if (element.shadowRoot) {
+                updateLinks(element.shadowRoot); // Check for <a> in shadowRoot
+                scanAllElements(element.shadowRoot); // Recursively scan deeper shadow DOMs
+              }
+            });
+          }
+
+      // Initial scan for all elements in the page
+      
+
+      setTimeout(() => {
+        scanAllElements()
+      });
+
+      // Watch for dynamically added elements
+      const observer = new MutationObserver(mutations => {
+        mutations.forEach(mutation => {
+          mutation.addedNodes.forEach(node => {
+            if (node.nodeType === 1) { // Ensure it's an element
+               setTimeout(() => {
+                scanAllElements(node)
+              });
+            }
+          });
+        });
+      });
+
+      observer.observe(document.body, { childList: true, subtree: true });
+    });
+
+</script>

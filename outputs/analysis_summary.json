@@ -1,0 +1,17 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 2,
+  "required_documents": 8,
+  "documents_present_types": [],
+  "missing_documents": [
+    "Articles of Association",
+    "Memorandum of Association",
+    "Board Resolution",
+    "Shareholder Resolution",
+    "Incorporation Application Form",
+    "UBO Declaration Form",
+    "Register of Members and Directors",
+    "Change of Registered Address Notice"
+  ],
+  "issues_found_total": 5
+}

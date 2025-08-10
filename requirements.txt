@@ -1,0 +1,10 @@
+python-dotenv>=1.0.0
+streamlit>=1.35.0
+python-docx>=1.1.0
+openai>=1.30.0
+numpy>=1.26.0
+pypdf>=4.2.0
+requests>=2.31.0
+sentence-transformers>=2.7.0
+
+

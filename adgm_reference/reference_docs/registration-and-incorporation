@@ -1,0 +1,1510 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="/js/adgm-components.umd-210726.js"></script>
+    <link rel="shortcut icon" href="/Adgm/images/favicon.png" type="image/x-icon" />
+    <script src="/js/ADGM/jQuery.js"></script>
+    <script src="/js/lib/mustache.js"></script>
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+    <link href="/css/ADGM/Forms/style.css" rel="stylesheet" />
+    <link href="/css/ADGM/loader.css" rel="stylesheet" />
+
+    <script src="https://unpkg.com/gijgo@1.9.14/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://unpkg.com/gijgo@1.9.14/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+
+
+
+    <title>ADGM Registration and Incorporation</title>
+    <meta name="description" content="The Registration Authority, an independent body which has the powers to license and register ADGM establishments, is one of the core pillars of ADGM" />
+    <meta key="keywords" name="keywords" />
+    <link rel="canonical" href="https://www.adgm.com/registration-authority/registration-and-incorporation">
+            <link rel="alternate" href="https://www.adgm.com/registration-authority/registration-and-incorporation" hreflang="en" />
+    <!-- Robots -->
+            <meta key="robots" name="robots" content="index, follow" />
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="Registration and Incorporation">
+    <meta property="og:url" content="https://www.adgm.com/registration-authority/registration-and-incorporation">
+    <meta property="og:description" content="The Registration Authority, an independent body which has the powers to license and register ADGM establishments, is one of the core pillars of ADGM">
+    <meta property="og:type">
+    <!-- Twitter meta tags -->
+    <meta name="twitter:title" content="Registration and Incorporation">
+    <meta name="twitter:description" content="The Registration Authority, an independent body which has the powers to license and register ADGM establishments, is one of the core pillars of ADGM">
+    <meta name="twitter:card">
+    <meta name="twitter:site" content="ADGM">
+    <meta name="twitter:properties">
+    <meta name="twitter:url" content="https://www.adgm.com/registration-authority/registration-and-incorporation">
+    <meta property="article:author" content="">
+    <meta property="article:published_time" content="31/07/2024 10:03:25 AM">
+
+ <!-- Verification code is missing -->
+     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJKKFG7');</script>
+
+
+    <link href="/css/main.css" rel="stylesheet" />
+
+
+    <div class="leader-modal modal-hidden">
+        <div class="leader-modal__container">
+            <div class="loader-sec"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        /* Loading Stuff*/
+        function showLoading() {
+            var loadingCheck = document.getElementById("leader-modal");
+            if (loadingCheck == null || loadingCheck == undefined) {
+
+                const scrollHide = document.querySelector('body');
+                scrollHide.style.overflow = 'hidden';
+
+                const loadingDiv = document.createElement('div');
+                loadingDiv.setAttribute("id", "leader-modal");
+                loadingDiv.setAttribute("class", "leader-modal active");
+
+                const loadingContainer = document.createElement('div');
+                loadingContainer.setAttribute("class", "leader-modal__container active");
+
+                const loadingImage = document.createElement('div');
+                loadingImage.setAttribute("class", "loader-sec");
+                loadingImage.style.visibility = "visible";
+
+                loadingContainer.appendChild(loadingImage);
+                loadingDiv.appendChild(loadingContainer);
+
+                var loadingMaster = document.getElementById("loading-master");
+                loadingMaster.appendChild(loadingDiv);
+            }
+        }
+
+        function hideLoading() {
+            const scrollHide = document.querySelector('body');
+            scrollHide.style.overflow = 'auto';
+            const loadingMaster = document.getElementById("loading-master");
+            loadingMaster.innerText = '';
+        }
+    </script>
+    <!--Application Insights-->
+<script>
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: { instrumentationKey:'7d6f3f3f-e2c9-47eb-8779-8b867d3a0b4c', disableCookiesUsage: true }});
+</script>
+</head>
+<body style="margin: 0px;">
+
+
+    <div id="loading-master"></div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJKKFG7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <adgm-application font-path="/fonts/">
+        <adgm-page>
+
+        <adgm-navigation float="true" 
+        >
+
+                                               <adgm-navigation-item title="About" href="/about/the-abu-dhabi-lifestyle" key="About">
+                                                                            <a href="/about"
+                                    >Overview</a>
+                                                                            <a href="/about/jurisdiction"
+                                    >Jurisdiction</a>
+                                                                            <a href="/about/authorities"
+                                    >Authorities</a>
+                                                                            <a href="/initiatives"
+                                    >Initiatives</a>
+                                                                            <a href="https://www.adgmacademy.com"
+                                     target="_blank" >ADGM Academy</a>
+                                                                            <a href="https://disputeresolution.adgm.com"
+                                     target="_blank" >Dispute Resolution</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="About">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    A platform that offers limitless opportunities and paves the way for a brighter future
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>Abu Dhabi boasts first-class infrastructure and unparalleled global connectivity, making it a premier international destination. Its exceptional qualities make it an ideal location to live, work, and conduct business.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/about/the-abu-dhabi-lifestyle" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Read about Abu Dhabi&#x27;s life style
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Latest Initiatives
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/media/announcements/adgms-2024-performance-with-245-growth-in-aums-highlights-global-influence"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='27 Feb 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" src='https://assets.adgm.com/images/assets/840x452-media-announcement-banner-2.jpg/Zz0xMDE4ZmNlMDc3NDExMWVmYTE2NTQ2NGUzZjg1MDQ1Yg==' blur-hash="" alt="ADGM&#x2019;s 2024 Performance With 245% Growth in AUMs Highlights Global Influence"></adgm-image>
+ADGM&#x2019;s 2024 Performance With 245% Growth in AUMs Highlights Global Influence                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/media/announcements/adgm-completes-al-reem-island-integration-adding-over-1100-entities-to-its-jurisdiction"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='24 Feb 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" src='https://assets.adgm.com/images/assets/840x452-media-announcement-banner-6.jpg/Zz0yZjA0ZDUyZTgwYjYxMWVmYTQ4NWQyZGNjOTI4ODUyMQ==' blur-hash="" alt="ADGM Completes Al Reem Island Integration, Adding Over 1,100 Entities to its Jurisdiction"></adgm-image>
+ADGM Completes Al Reem Island Integration, Adding Over 1,100 Entities to its Jurisdiction                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="Business" href="/setting-up" key="Business">
+                                                                            <a href="/business"
+                                    >Overview</a>
+                                                                            <a href="/business-areas"
+                                    >Business Areas</a>
+                                                                            <a href="/setting-up"
+                                    >Setting up</a>
+                                                                            <a href="/operating-in-adgm"
+                                    >Operating in</a>
+                                                                            <a href="/public-registers"
+                                    >Public Registers</a>
+                                                                            <a href="/legal-framework"
+                                    >Legal Framework</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="Business">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    Providing an environment that empowers the future
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>A financial centre that provides transparency, efficiency, and integrity, through its progressive frameworks, future focused infrastructure, all within a familiar independent legal jurisdiction &ndash; ADGM is the perfect platform for success.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/setting-up" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Find out how to set up in ADGM
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Latest News
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/media/announcements/adgms-4th-annual-summer-internship-programme-celebrates-community-and-collaboration"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='05 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adgm-internship-2025-871x491.jpg/Zz0yOTI2NWM4ZTcxYzYxMWYwOTk5MDNhOTNkNzUxOTUxZg==' blur-hash="" alt="ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration"></adgm-image>
+ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/media/announcements/adfw-2025-set-to-double-in-size-at-new-location"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='01 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adfw-thumbnail-871x491.jpg/Zz02YTg3YTZjZTZlYTYxMWYwODI2MDJlODNkZmEzYjYyZQ==' blur-hash="" alt="Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location"></adgm-image>
+Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="eServices" href="https://accessrp.adgm.com" key="eServices">
+                                                                            <a href="/operating-in-adgm/e-services/accessrp"
+                                    >AccessRP</a>
+                                                                            <a href="/operating-in-adgm/e-services/accessadgm-government-services-portal"
+                                    >ACCESSADGM</a>
+                                                                            <a href="/operating-in-adgm/e-services/online-registry-solution"
+                                    >Online Registry Solution</a>
+                                                                            <a href="/operating-in-adgm/e-services/electronic-prudential-reporting"
+                                    >Electronic Prudential Reporting</a>
+                                                                            <a href="/operating-in-adgm/e-services/fsra-connect"
+                                    >FSRA Connect</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="eServices">
+                                                    <div>
+                                                         <adgm-text variant="text2XL">
+                                    All Your Real Property Needs in One Platform on AccessRP
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text>
+                                    
+<p>AccessRP is a next-generation digital platform transforming the real estate experience in ADGM. Designed to streamline interactions across the ecosystem, AccessRP brings together landlords, developers, and tenants in one seamless environment, providing real-time access to services, data, and insights.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="https://accessrp.adgm.com" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Explore AccessRP
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Latest News
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/media/announcements/adgms-4th-annual-summer-internship-programme-celebrates-community-and-collaboration"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='05 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adgm-internship-2025-871x491.jpg/Zz0yOTI2NWM4ZTcxYzYxMWYwOTk5MDNhOTNkNzUxOTUxZg==' blur-hash="" alt="ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration"></adgm-image>
+ADGM&#x27;s 4th Annual Summer Internship Programme Celebrates Community and Collaboration                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/media/announcements/adfw-2025-set-to-double-in-size-at-new-location"
+                                                 style="display : block;" 
+                                                                                                 chip='ADGM'
+                                                                                                 date='01 Aug 2025'
+                                                                                                 variant='primary'>                                                                                                          <adgm-image slot="image" fit="cover" src='https://assets.adgm.com/images/assets/adfw-thumbnail-871x491.jpg/Zz02YTg3YTZjZTZlYTYxMWYwODI2MDJlODNkZmEzYjYyZQ==' blur-hash="" alt="Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location"></adgm-image>
+Under the Patronage of His Highness Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, ADFW 2025 Set to Double in Size at New Location                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="Discover" href="/media" key="Discover">
+                                                                            <a href="/media"
+                                    >Media</a>
+                                                                            <a href="/media/announcements"
+                                    >News</a>
+                                                                            <a href="/events"
+                                    >Events</a>
+                                                                            <a href="/spotlight"
+                                    >Spotlight</a>
+                                                                            <a href="/think-by-adgm"
+                                    >Podcasts</a>
+                                                                            <a href="/media/publications"
+                                    >Publications</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="Discover">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    Stay up-to-date with our wide range of available resources
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>Our community of business professionals, entrepreneurs, and investors can depend on ADGM to provide timely news and reliable insights.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/media" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    Read our latest news articles
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Upcoming Events
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+
+                                                                           <adgm-flex direction="column" gap="s16">
+                                                                                      <adgm-event-card date-month='Dec'
+                                                                                                date-day='08-11'
+                                                                                                location='Al Maryah Island, Abu Dhabi'
+                                                                                                href='https://www.adfw.com/'  target="_blank" >
+                                                    ADFW 2025
+                                                                                      </adgm-event-card>
+                                                                                      <adgm-event-card date-month='Dec'
+                                                                                                date-day='10'
+                                                                                                location='Al Maryah Island, Abu Dhabi'
+                                                                                                href='https://www.adfw.com/events/resolve'  target="_blank" >
+                                                    RESOLVE 2025
+                                                                                      </adgm-event-card>
+                                                                                      <adgm-event-card date-month='Jan'
+                                                                                                date-day='28-30'
+                                                                                                location='Abu Dhabi'
+                                                                                                href='/events/27th-annual-iba-arbitration-day-conference' >
+                                                    27th Annual IBA Arbitration Day Conference
+                                                                                      </adgm-event-card>
+                                                                           </adgm-flex>
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+                                               <adgm-navigation-item title="Contact &amp; Support" href="/contact-us" key="Contact &amp; Support">
+                                                                            <a href="/contact-us"
+                                    >Support</a>
+                                                                            <a href="/contact-us/make-an-enquiry"
+                                    >Make an enquiry</a>
+                                                                            <a href="/contact-us/speaking-up"
+                                    >Speaking Up</a>
+                                                                            <a href="/faqs"
+                                    >FAQs</a>
+                                               </adgm-navigation-item>
+                                               <adgm-navigation-item-content slot="Contact &amp; Support">
+                                                    <div>
+                                                         <adgm-text variant="text2XL" weight="300">
+                                    We are here to help
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-text variant="textS" weight="300">
+                                    
+<p>At ADGM, we offer various support options, including contact details, FAQs, enquiry forms, and a whistleblowing form.</p>
+                                                         </adgm-text>
+                                                         <adgm-spacer height="rBodyM"></adgm-spacer>
+                                                         <adgm-link-button href="/contact-us" target="_self" icon="arrowM" size="s" variant="secondary" anim>
+                                    View available support options
+                                                         </adgm-link-button>
+                                                     </div>
+
+                                                    <div>
+                                                          <adgm-text variant="text2XL" weight="300">
+                                    Some of our FAQ topics
+                                                          </adgm-text>
+                                                          <adgm-spacer height="rBodyM"></adgm-spacer>
+
+                                                                             <adgm-flex direction="row" gap="s16">
+                                                                                         <adgm-highlight-card href="/faqs/setting-up"
+                                                
+                                                                                                 chip='Setting up'
+                                                                                                 date='1 January 0001'
+                                                                                                 variant='secondary'>                                                                                                           <adgm-ul slot="content">
+                                                                                                                       <li>Getting started</li>
+                                                                                                                       <li>Foundations regime</li>
+                                                                                                                       <li>Resolution for incorporation</li>
+                                                                                                           </adgm-ul>
+                                                                                         </adgm-highlight-card>
+                                                                                         <adgm-highlight-card href="/faqs/operating-in-adgm"
+                                                
+                                                                                                 chip='Operating in'
+                                                                                                 date='1 January 0001'
+                                                                                                 variant='secondary'>                                                                                                           <adgm-ul slot="content">
+                                                                                                                       <li>Existing auditors</li>
+                                                                                                                       <li>New auditors</li>
+                                                                                                                       <li>ACCESSADGM</li>
+                                                                                                           </adgm-ul>
+                                                                                         </adgm-highlight-card>
+                                                                            </adgm-flex>
+
+
+                                                    </div>
+                                                </adgm-navigation-item-content>
+
+                </adgm-navigation>
+
+<script>
+    function eventCardAlignment() {
+        const eventCard = document.querySelectorAll('adgm-event-card');
+
+        if (eventCard) {
+            eventCard.forEach(item => {
+                item.shadowRoot.querySelector('.date').setAttribute("style", "width: 90px !important;");
+            });
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        eventCardAlignment();
+    });
+</script>
+            
+
+
+
+
+	<span>
+		<span>
+        <adgm-hero size='s' color='Sky100'>
+                    <div slot="content">
+                            <adgm-text variant='heroTitleM' >
+                                <h1>Registration and Incorporation</h1>
+                            </adgm-text>
+                    </div>
+        </adgm-hero>
+</span>
+	
+		<span>
+
+
+
+<adgm-container>
+    <adgm-breadcrumbs>
+                        <adgm-breadcrumb href='/registration-authority/'>Registration Authority</adgm-breadcrumb>
+                <adgm-breadcrumb>Registration and Incorporation</adgm-breadcrumb>
+
+    </adgm-breadcrumbs>
+</adgm-container>
+
+<adgm-spacer height="s80"></adgm-spacer>
+
+</span>
+	
+		<span>
+<adgm-section variant='primary'>
+        <adgm-container>
+            
+<div>        <adgm-body ><p><span>The Registration Authority, an independent body which has the powers to license and register ADGM establishments, is one of the core pillars of ADGM. The Registrar&rsquo;s main functions under Companies and Commercial Licensing Regulations include:</span><br /><lu></lu></p>
+<ul>
+<li>Registration of ADGM establishments</li>
+<li>Registration of business names and maintenance of the<span>&nbsp;</span><strong><a rel="noopener noreferrer" href="/operating-in-adgm/e-services/online-registry-solution-portal/" target="_self">public register of companies</a></strong><span>&nbsp;</span>in ADGM</li>
+<li>Registration of post-incorporation documentation</li>
+<li>Registration of changes in business name particulars</li>
+<li>Registration of changes in directors, officers, shareholders and share capital</li>
+<li>Enforcement of ADGM companies regulations, Cancellation of Commercial Licences, prosecution and strike off</li>
+<li>Dissolution or restoration of ADGM establishments</li>
+</ul></adgm-body>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-text
+     variant='displayXS'  weight="300" 
+    >The Process
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>        <adgm-body ><p><span>Each business will be required to fill out the required forms online through our&nbsp;</span><a rel="noopener noreferrer" href="/operating-in-adgm/e-services/online-registry-solution-portal/" target="_self"><strong>ADGM Online Registry Solution</strong></a><span>. We also support applications through paper based forms however, please be aware that additional fees apply for paper submissions. To learn more about the steps involved in establishing a presence and incorporating a company in ADGM, please read the documents below, or&nbsp;</span><a href="/faqs/"><strong>click here</strong></a><span>&nbsp;to view FAQ&rsquo;s.</span></p></adgm-body>
+</div>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</span>
+	
+		<span>
+<adgm-section variant='secondary'>
+        <adgm-container>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+            
+<div>
+    <adgm-overview-grid variant='three'  content-align="[&quot;.title&quot;,&quot;.body&quot;]" >
+        
+<div>
+        <adgm-icon-card title='Getting started' href='' variant="secondary"  filled clamp button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                1
+                            </adgm-text>
+            Create brief business plan and review the documentation requirements for the application
+                        </adgm-icon-card>
+
+</div><div>
+        <adgm-icon-card title='Submit application' href='' variant="secondary"  filled clamp button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                2
+                            </adgm-text>
+            Submit application and required documentation to the Registrar via the online system
+                        </adgm-icon-card>
+
+</div><div>
+        <adgm-icon-card title='Complete' href='' variant="secondary"  filled clamp button-text="Read more" >
+                            <adgm-text slot="icon" variant="displayXS" color="sky100" weight="500">
+                3
+                            </adgm-text>
+            Provided all information is accurately submitted, the process can be completed within a few days 
+                        </adgm-icon-card>
+
+</div>
+    </adgm-overview-grid>
+</div>
+            <adgm-spacer height="rSectionM"></adgm-spacer>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</span>
+	
+		<span>
+<adgm-section variant='primary'>
+        <adgm-container>
+            
+<div>
+    <adgm-text
+     variant='displayS'  weight="300" 
+    >Supporting documents
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Company Checklist</h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-spacer height='rBodyM'></adgm-spacer>
+</div><div>
+    <adgm-text
+     variant='textS'  weight="400" 
+    >Application Checklists<br> The checklists provide a summary of the standard details that you will need to provide as part of your application.
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Branch-Financial&#x2B;Services&#x2B;20230509.pdf/c5f462585a4411ef97f846760ad4a98b"  reverse  target="_blank" >
+        Branch &#x2013; Financial Services
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Branch-Non&#x2B;Financial&#x2B;Services&#x2B;20231228.pdf/c5bd08c65a4411efb9d83a701912a93f"  reverse  target="_blank" >
+        Branch &#x2013; Non-Financial Services
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Branch-Retail&#x2B;20230509.pdf/e60ad38042a511efaac332a68361c3e7"  reverse  target="_blank" >
+        Branch &#x2013; Retail
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Checklist&#x2B;Company&#x2B;Set&#x2B;Up&#x2B;V&#x2B;1&#x2B;20220530&#x2B;Investment&#x2B;Company&#x2B;LTD&#x2B;ICC.pdf/c4a459585a4411ef89c3d6ca111d780b"  reverse  target="_blank" >
+        Incorporated Cell Company as Investment Company LTD ICC
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Checklist&#x2B;Company&#x2B;Set&#x2B;Up&#x2B;V&#x2B;1&#x2B;20220530&#x2B;Investment&#x2B;Company&#x2B;LTD&#x2B;PCC.pdf/99b7c72a3eba11ef89eaaeb47944ff8b"  reverse  target="_blank" >
+        Incorporate Protected Cell Company as Investment Company LTD PCC
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Checklist&#x2B;Company&#x2B;SetUp&#x2B;V1&#x2B;20220530&#x2B;Investment&#x2B;Company&#x2B;LTD.pdf/c4acc78c5a4411ef82f4b295bac3477d"  reverse  target="_blank" >
+        Incorporate Close/Open-Ended Investment Company LTD
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Checklist&#x2B;Registration&#x2B;V1&#x2B;20220509&#x2B;non-exempt&#x2B;foundations.pdf/d41c66044b1811efbe4cb6e25ca33f54"  reverse  target="_blank" >
+        Foundation (non-exempt)
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Checklist&#x2B;Registration&#x2B;V1&#x2B;20220601&#x2B;non-exempt&#x2B;Foundations&#x2B;Continuance.pdf/4bb333dc4b1911efa3604a2527d9dd90"  reverse  target="_blank" >
+        Foundation Continuance (non-exempt)
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Limited&#x2B;Liability&#x2B;Partnership&#x2B;Financial&#x2B;and&#x2B;Non-Financial&#x2B;20231228.pdf/581aa6b66b7e11efa51c0e7a9b09c175"  reverse  target="_blank" >
+        Limited Liability Partnership &#x2013; Financial and Non-Financial
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Guarantee&#x2B;Non-Financial&#x2B;Services&#x2B;20231228.pdf/1e6186444b1a11ef94edde7a1988e667"  reverse  target="_blank" >
+        Private Company Limited by Guarantee &#x2013; Non-Financial Services
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares-Financial&#x2B;Services&#x2B;20230509.pdf/97c080e84b1b11efacda82ce69c85c0e"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Financial Services
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares-Non-Financial&#x2B;Services&#x2B;20231228.pdf/c214f1f25a4411ef82f4b295bac3477d"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Non-Financial Services
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares-Non-Exempt-SPV&#x2B;20230509.pdf/8774338462b711ef86660e47fb5d40ab"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Non-Exempt SPV
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares&#x2B;continuance&#x2B;SPV&#x2B;20231228.pdf/9bff576e3eba11efb3b7bec7319c18f4"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Continuance SPV
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares-Retail&#x2B;20230509.pdf/c06fff4a5a4411ef82f4b295bac3477d"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Retail
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Private&#x2B;Company&#x2B;Limited&#x2B;by&#x2B;Shares&#x2B;continuance&#x2B;fin&#x2B;non-fin&#x2B;retail&#x2B;ex&#x2B;spv&#x2B;20231228.pdf/56925de04b1a11ef890d62f53bd3635e"  reverse  target="_blank" >
+        Private Company Limited by Shares &#x2013; Continuance Financial, Non-Financial, Retail excluding SPV
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Checklist&#x2B;Company&#x2B;Set&#x2B;Up&#x2B;V1020220517&#x2B;PLC&#x2B;NonFinancial.pdf/d6b76c607f0c11ef9896c60b74fbe720"  reverse  target="_blank" >
+        Checklist Company Set up - Public Company Limited by Shares - Non Financial
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Guidance note </h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-text
+     variant='textS'  weight="400" 
+    >The guidance notes provide information on completing the application to register an entity and should be read in conjunction with the relevant legislation. It does not cover other requirements as set out in the<a href="https://www.adgm.com/legal-framework"> relevant legislation</a> which includes contact with the court and other internal obligations that a company will need to carry out. Further advice from a specialist professional may be required.
+     </adgm-text>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Forms</h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-spacer height='rBodyM'></adgm-spacer>
+</div><div>        <adgm-body ><p><span>All forms are made available on the&nbsp;</span><strong><a rel="noopener noreferrer" href="/operating-in-adgm/e-services/online-registry-solution-portal/" target="_self">ADGM Online Registry Solution</a>.</strong><br /><br /><span>Should you require to submit hard copy paper form, please contact the Registration Authority by sending an email to&nbsp;</span><a href="mailto:ra@adgm.com"><strong>ra@adgm.com</strong></a><br /><br /><span>Please note that filing of forms and supporting documents is accepted by the office of the Registration Authority in good faith without any need for the Registrar to inquire into the veracity and accuracy of every filing received by this office.</span></p></adgm-body>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/ADGM-RA-Nominee-Arrangement-Confirmation.docx/f763662c5b0c11ef957ebad158dde651"  reverse  target="_blank" >
+        Nominee Arrangement Confirmation
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Nominee-Arrangement-Confirmation-Role-Holder-Nominee-Company.docx/e1efb5366ba911ef8992c68d6daf3988"  reverse  target="_blank" >
+        Nominee Arrangement Confirmation - Role Holder Nominee Company
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Nominee-Arrangement-Confirmation-Role-Holder-Nominee-Foundation.docx/102aa6906baa11efb7f2324080d98e91"  reverse  target="_blank" >
+        Nominee Arrangement Confirmation - Role Holder Nominee Foundation
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Nominee-Arragement-Confirmation-Role-Holder-Nominee-Partnership.docx/87bc3dd06bab11efa545ae6d7891492b"  reverse  target="_blank" >
+        Nominee Arrangement Confirmation - Role Holder Nominee Partnership
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Fees</h3>
+                    </adgm-text>
+        
+<div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadPdf'
+     href="https://assets.adgm.com/download/assets/Schedule&#x2B;of&#x2B;Fees&#x2B;2025.pdf/6f25a452823d11ef808c3e0446867bce"  reverse  target="_blank" >
+        Schedule of fees
+            </adgm-link-button>
+</div>
+            </adgm-expansion-panel>
+
+</div>
+        </adgm-container>
+
+</adgm-section></span>
+	
+		<span>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</span>
+	
+		<span>
+<adgm-section variant='primary'>
+        <adgm-container>
+            
+<div>
+    <adgm-text
+     variant='displayS'  weight="300" 
+    >Templates
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='s20'></adgm-spacer>
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Model Articles</h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-spacer height='rBodyM'></adgm-spacer>
+</div><div>
+    <adgm-text
+     variant='text2XL'  weight="600" 
+    >English Versions
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-model-articles-private-company-limited-by-shares.docx/015402647f0111ef91cdea7ac70a8286"  reverse >
+        ADGM Model Articles - Private Company Limited by Shares
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-model-articles-private-company-limited-by-guarantee.docx/e6d3adc05b1711ef9f15a617eb0b5f27"  reverse  target="_blank" >
+        ADGM Model Articles - Private Company Limited by Guarantee
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-model-articles-public-company-limited-by-shares.docx/521470847f0211ef95c8a6d84cd87ba2"  reverse  target="_blank" >
+        ADGM Model Articles - Public Companies
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='rBodyM'></adgm-spacer>
+</div><div>
+    <adgm-text
+     variant='text2XL'  weight="600" 
+    >Bilingual Versions (English & Arabic)
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-model-articles-private-company-limited-by-shares-bilingual.docx/88b727727f0111ef94a8e694ff24f57d"  reverse  target="_blank" >
+        ADGM Model Articles - Private Company Limited by Shares
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-model-articles-public-company-limited-by-shares-bilingual.docx/7378a4707f0211efa82e4e029c373d36"  reverse  target="_blank" >
+        ADGM Model Articles - Public Company Limited by Shares
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-model-articles-private-company-limited-by-guarantee-bilingual.docx/e64b55925b1711ef9d1dd67523249f8b"  reverse  target="_blank" >
+        ADGM Model Articles - Private Company Limited by Guarantee
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Resolutions Templates</h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-spacer height='rBodyM'></adgm-spacer>
+</div><div>
+    <adgm-text
+     variant='text2XL'  weight="600" 
+    >Incorporation / Registration
+     </adgm-text>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-resolution-single-individual-shareholder-PLC-incorporation-v1.docx/d71f71567f0311ef96d0466ec8648bb9"  reverse  target="_blank" >
+        Single Individual Shareholder for incorporation of Public Company Limited by Shares
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-resolution-multiple-individual-shareholders-PLC-incorporation-v1.docx/d660f1fe7f0311efb56486445a785e4f"  reverse  target="_blank" >
+        Multiple Individual Shareholders for incorporation of Public Company Limited by Shares
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/adgm-ra-resolution-corporate-shareholders-PLC-incorporation-v1.docx/d69085e07f0311ef8e788681c52da287"  reverse  target="_blank" >
+        Corporate Shareholder to incorporate a Public Company Limited by Shares
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Registration-of-Branch.docx/aecaedfa5b1a11efbc8f2236104f0d0c"  reverse  target="_blank" >
+        Registration of Branch
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Registration-of-Branch-by-Management-Board.docx/ae5a2f665b1a11efbdd21e183375c0b2"  reverse  target="_blank" >
+        Registration of Branch by Management Board
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Incorporation-by-Body-Corporate.docx/ae4604825b1a11ef85721e183375c0b2"  reverse  target="_blank" >
+        Incorporation by Body Corporate*
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Incorporation-by-Individual.docx/55cb9cd26c3a11ef9fdd56fe65da756e"  reverse  target="_blank" >
+        Incorporation by Individual**
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>        <adgm-body  variant="textS"><section class="psp-text-link level1 level0 mt0 mb0i">
+<div class="container">
+<div class="contain col-sm-12 col-lg-10 col-lg-offset-1">
+<div class="link-line"><a href="https://www.adgm.com/documents/registration-authority/registration-and-incorporation/templates/incorporation-by-individual.docx" class="link1 no-underline helvetica-bold"></a></div>
+</div>
+</div>
+</section>
+<p><span>*&nbsp;</span><em>Use this template if the company is being incorporated by a body corporate. If the company has more than one shareholder (that is body corporate), each will have to pass the resolution and provide a register of directors or similar evidence of signing authority (that should not be older than three months). This template must be adjusted to indicate that the body corporate will be one of the shareholders/intends to acquire shares.</em><br /><br /><span>**&nbsp;</span><em>Use this template if the company is being incorporated by one or more individuals. If the company has more than one shareholder ( that is an individual), amend this template to include all individuals in one resolution.</em></p></adgm-body>
+</div><div>
+    <adgm-spacer height='rBodyS'></adgm-spacer>
+</div><div>
+    <adgm-message variant="info">
+            <adgm-text weight="600" variant="textS">
+                Note
+                    </adgm-text>
+            <adgm-spacer height="s4"></adgm-spacer>
+            <adgm-text weight="400"
+            variant="textS">
+                
+<p>If the company is being incorporated by an individual and body corporate, each will have to pass a separate resolution.</p>
+                    </adgm-text>
+    </adgm-message>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-expansion-panel 
+        type='plus' variant='primary'>                    <adgm-text slot="title" variant="textL" weight="400">
+                        <h3>Annual Requirements</h3>
+                    </adgm-text>
+        
+<div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Confirmation---Updated-Documents.docx/37b158785b1d11ef9a153abcfea0e32e"  reverse  target="_blank" >
+        Confirmation - Updated Documents
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>    <adgm-link-button variant='secondary'
+                      size='s'
+                      icon='downloadDocx'
+     href="https://assets.adgm.com/download/assets/Confirmation---Valid-Current-Documents.docx/370c05305b1d11ef8d1a2236104f0d0c"  reverse  target="_blank" >
+        Confirmation - Valid Current Documents
+            </adgm-link-button>
+</div><div>
+    <adgm-spacer height='s32'></adgm-spacer>
+</div><div>
+    <adgm-hr 
+    
+    ></adgm-hr>
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div>
+            </adgm-expansion-panel>
+
+</div><div>
+    <adgm-spacer height='rBodyL'></adgm-spacer>
+</div>
+        </adgm-container>
+
+</adgm-section></span>
+	</span>
+
+
+
+        <adgm-footer>
+                        <adgm-footer-category>
+                            <h3 slot="title">About</h3>
+                                    <a href='/about' >Overview</a>
+                                    <a href='/about/jurisdiction' >Jurisdiction</a>
+                                    <a href='/about/authorities' >Authorities</a>
+                                    <a href='/initiatives' >Initiatives</a>
+                                    <a href='https://www.adgmacademy.com'  target="_blank" >ADGM Academy</a>
+                                    <a href='https://disputeresolution.adgm.com'  target="_blank" >Dispute Resolution</a>
+                                    <a href='/careers' >Careers</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">Business</h3>
+                                    <a href='/business' >Overview</a>
+                                    <a href='/business-areas' >Business areas</a>
+                                    <a href='/setting-up' >Setting up</a>
+                                    <a href='/operating-in-adgm' >Operating in</a>
+                                    <a href='/public-registers' >Public registers</a>
+                                    <a href='/legal-framework' >Legal framework</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">eServices</h3>
+                                    <a href='/operating-in-adgm/e-services/accessrp' >AccessRP</a>
+                                    <a href='/operating-in-adgm/e-services/accessadgm-government-services-portal' >ACCESSADGM</a>
+                                    <a href='/operating-in-adgm/e-services/online-registry-solution' >Online Registry Solution</a>
+                                    <a href='/operating-in-adgm/e-services/electronic-prudential-reporting' >Electronic Prudential Reporting</a>
+                                    <a href='/operating-in-adgm/e-services/fsra-connect' >FSRA Connect</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">Discover</h3>
+                                    <a href='/media' >Media</a>
+                                    <a href='/media/announcements' >News</a>
+                                    <a href='/events' >Events</a>
+                                    <a href='/spotlight' >Spotlight</a>
+                                    <a href='/think-by-adgm' >Podcasts</a>
+                                    <a href='/media/publications' >Publications</a>
+                                    <a href='/document-repository' >Documents</a>
+                        </adgm-footer-category>
+                        <adgm-footer-category>
+                            <h3 slot="title">Contact &amp; Support</h3>
+                                    <a href='/contact-us/make-an-enquiry' >Make an enquiry</a>
+                                    <a href='/contact-us/speaking-up' >Speaking Up</a>
+                                    <a href='/faqs' >Frequently Asked Questions</a>
+                        </adgm-footer-category>
+                <span slot="legalText">
+&#xA9; 2025 ADGM. All rights reserved.                </span>
+                <adgm-footer-legal-links slot="legalLinks">
+                            <a href='/sitemap' >Sitemap</a>
+                            <a href='/information/terms-and-conditions' >Terms and conditions</a>
+                            <a href='/information/privacy-policy' >Privacy policy</a>
+                            <a href='/information/cookies-policy' >Cookies policy</a>
+                </adgm-footer-legal-links>
+                <adgm-footer-social-links slot="socialLinks">
+                            <a href='https://www.linkedin.com/company/adgm' target="_blank">
+                                <adgm-icon icon="socialLinkedIn"></adgm-icon>
+                            </a>
+                            <a href='https://x.com/adglobalmarket'>
+                                <adgm-icon icon="socialTwitter"></adgm-icon>
+                            </a>
+                            <a href='https://www.instagram.com/adgm' target="_blank">
+                                <adgm-icon icon="socialInstagram"></adgm-icon>
+                            </a>
+                            <a href='https://www.youtube.com/abudhabiglobalmarket'>
+                                <adgm-icon icon="socialYouTube"></adgm-icon>
+                            </a>
+                </adgm-footer-social-links>
+        </adgm-footer>
+
+    <!-- Scroll to Top Button -->
+    <div class="back-to-top">
+        <adgm-back-to-top>
+            <adgm-icon-button size="s" variant="tertiary" icon="chevronUpL">
+                <button class="button --variant-tertiary --size-s" type="button">
+                    <slot name="icon">
+                        <adgm-icon color="currentColor" icon="chevronUpL" size="s20"></adgm-icon>
+                    </slot>
+                </button>
+            </adgm-icon-button>
+        </adgm-back-to-top>
+    </div>
+<!-- Chatbot Implementation -->
+
+            
+        </adgm-page>
+    </adgm-application>
+        <adgm-cookie-notification class="cookie-hide">
+                <adgm-body>
+                    <p>We use cookies and similar technologies that are necessary to operate the website. Additional cookies are used to perform analysis of website usage. By continuing to use our website, you consent to our use of cookies. For more information, please read our <a href="/information/cookies-policy/">Cookies Policy</a>.</p>
+                </adgm-body>
+            <adgm-spacer height="rBodyXS"></adgm-spacer>
+            <adgm-flex gap="s8" direction="row">
+                    <adgm-button id="cookie-reject" size="s" outlined>Reject cookies</adgm-button>
+                    <adgm-button id="cookie-accept" size="s">Accept cookies</adgm-button>
+
+
+            </adgm-flex>
+        </adgm-cookie-notification>
+    <!--Footer Client Resources-->
+    <script defer="defer" src="/Util/Find/epi-util/find.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){if(typeof FindApi === 'function'){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}})
+</script>
+
+    <script src="/js/bootstrap.bundle.min.js"></script>
+
+
+        <script src="/js/hideheaderfooter.js"></script>
+
+<script src="/Util/EPiServer.GoogleAnalytics/Tracking.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-E8VJ108T1K"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());gtag('config', 'G-E8VJ108T1K',);if(window.epiGat)epiGat({"downloads":true,"extensions":"7z|aac|arc|arj|asf|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|png|pptx?|qtm?|ra(m|r)?|tar|tgz|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","external":true,"externalAsViews":true,"mailto":true,"trackForms":true,"trackVisitorGroups":true,"trackLogins":true,"trackingOption":"Measurement"});</script></body>
+</html>
+<script>
+    // Get the button
+    var mybutton = document.querySelector('.back-to-top');
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() { scrollFunction() };
+
+    if (navigator.platform === "iPhone") {
+        document.body.classList?.add("iphone");
+    }
+
+    const cookieNotification = document.querySelector(".iphone adgm-cookie-notification");
+    if (cookieNotification) {
+        const cookieContainer = cookieNotification.shadowRoot.querySelector(".container");
+
+        if (cookieContainer) {
+            cookieContainer.style.marginBottom = "50%";
+        }
+    }
+
+    function scrollFunction() {
+        if (mybutton) {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document smoothly
+    if (mybutton !== null) {
+        mybutton.onclick = function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    }
+
+    const cookieReject = document.getElementById('cookie-reject');
+    const cookieAccept = document.getElementById('cookie-accept');
+    var showPopUp;
+    // Function to create a cookie with a 1-year expiry
+    function createCookie(cname, cvalue) {
+        var d = new Date();
+        d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // 1 year in milliseconds
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;secure";
+    }
+
+    function getCookie(cookieName) {
+        if (typeof document !== "undefined") {  // Check if running in a browser environment
+            var cookieNameEQ = cookieName + '=';
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i].trim(); // Trim any leading spaces
+                if (c.indexOf(cookieNameEQ) === 0) {  // Check if the cookie starts with the cookie name
+                    return c.substring(cookieNameEQ.length, c.length);  // Return the cookie value
+                }
+            }
+            return '';  // Return empty string if cookie not found
+        }
+        return null;  // Return null if not in a browser environment
+    }
+    // Function to check the cookie and set the popup state
+    function checkCookieAndSetPopup() {
+        var cookieRejected = getCookie("cookies_rejected");
+        var cookieAccepted = getCookie("cookies_accepted");
+
+        if (cookieRejected || cookieAccepted) {
+            document.querySelector('.cookie-hide').style.visibility = "hidden";
+        } else {
+            document.querySelector('.cookie-hide').style.visibility = 'visible';
+        }
+    }
+
+    if (cookieReject !== null) {
+        cookieReject.addEventListener('click', () => {
+            document.querySelector('.cookie-hide').style.visibility = "hidden";
+            createCookie("cookies_rejected", "rejected")
+
+        })
+    }
+
+    if (cookieAccept !== null) {
+        cookieAccept.addEventListener('click', () => {
+            document.querySelector('.cookie-hide').style.visibility = "hidden";
+            createCookie("cookies_accepted", "accepted")
+        })
+    }
+    window.onload = checkCookieAndSetPopup;
+
+    const articleCards = document.querySelectorAll('adgm-article-card');
+    articleCards?.forEach((card, idx) => {
+        const links = card?.shadowRoot?.querySelectorAll('.content adgm-link-button');
+        var target = card?.getAttribute('target');
+        if (target !== undefined && target !== null) {
+            links[0]?.setAttribute('target', target);
+        }
+    })
+
+    const iconCards = document.querySelectorAll('adgm-icon-card');
+    iconCards?.forEach((card, idx) => {
+        const links = card?.shadowRoot?.querySelectorAll('.content adgm-link-button');
+        var target = card?.getAttribute('target');
+        if (target !== undefined && target !== null) {
+            links[0]?.setAttribute('target', target);
+        }
+    })
+
+
+        document.addEventListener("DOMContentLoaded", () => {
+            const header = document.querySelector("adgm-navigation")
+                  if(header) {
+                    header.updateComplete.then(() => {
+                        header.firstUpdated();
+                    })
+                  }
+
+            function updateLinks(root) {
+            if (!root) return;
+
+            root.querySelectorAll('a[target="_blank"]').forEach(anchor => {
+              anchor.setAttribute("rel", "noopener");
+            });
+          }
+
+          function scanAllElements(root = document) {
+            root.querySelectorAll("*").forEach(element => {
+              element.querySelectorAll('a[target="_blank"]').forEach(anchor => {
+                anchor.setAttribute("rel", "noopener");
+              });
+              if (element.shadowRoot) {
+                updateLinks(element.shadowRoot); // Check for <a> in shadowRoot
+                scanAllElements(element.shadowRoot); // Recursively scan deeper shadow DOMs
+              }
+            });
+          }
+
+      // Initial scan for all elements in the page
+      
+
+      setTimeout(() => {
+        scanAllElements()
+      });
+
+      // Watch for dynamically added elements
+      const observer = new MutationObserver(mutations => {
+        mutations.forEach(mutation => {
+          mutation.addedNodes.forEach(node => {
+            if (node.nodeType === 1) { // Ensure it's an element
+               setTimeout(() => {
+                scanAllElements(node)
+              });
+            }
+          });
+        });
+      });
+
+      observer.observe(document.body, { childList: true, subtree: true });
+    });
+
+</script>
