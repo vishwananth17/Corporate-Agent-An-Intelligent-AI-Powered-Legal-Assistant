@@ -164,4 +164,5 @@ License and data
 - This is a demonstration tool. It does not constitute legal advice.
 - Verify all citations and outputs against the current, official ADGM sources.
 
+Contact: bsvishwananth@gmail.com
 
